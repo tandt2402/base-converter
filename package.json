@@ -1,17 +1,17 @@
 {
-  "name": "base-converter",
-  "version": "1.0.0",
+  "name": "computer-converter",
+  "version": "1.0.1",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tandt2402/base-converter.git"
+    "url": "https://github.com/tandt2402/computer-converter.git"
   },
   "bugs": {
-    "url": "https://github.com/tandt2402/base-converter/issues"
+    "url": "https://github.com/tandt2402/computer-converter/issues"
   },
-  "homepage": "https://github.com/tandt2402/base-converter/blob/master/README.md",
+  "homepage": "https://github.com/tandt2402/computer-converter/blob/master/README.md",
   "scripts": {
     "check-types": "tsc --noEmit",
     "clean": "rimraf build",
