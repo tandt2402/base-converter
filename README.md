@@ -7,19 +7,19 @@ Base converter is a NPM Package useful for converting numbers from one base to a
 If you are using yarn:
 
 ```bash
-yarn add base-converter
+yarn add computer-converter
 ```
 
 If you are using npm:
 
 ```bash
-npm install base-converter
+npm install computer-converter
 ```
 
 ## Usage
 
 ```javascript
-import { BaseConverter } from 'base-converter';
+import { BaseConverter } from 'computer-converter';
 
 const converter = new BaseConverter();
 ```
