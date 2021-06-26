@@ -1,6 +1,6 @@
 {
   "name": "computer-converter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "license": "MIT",
@@ -18,7 +18,7 @@
     "build:js": "tsc",
     "build": "npm-run-all clean build:js",
     "test": "jest",
-    "test:clean-cache":"jest --clearCache",
+    "test:clean-cache": "jest --clearCache",
     "test:coverage": "jest --coverage",
     "converage": "npm-run-all test:*",
     "lint": "eslint --fix src/**/*.ts ",
